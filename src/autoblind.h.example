@@ -1,0 +1,3 @@
+#define SSID "WifiNetwork"
+#define PASSWORD "WifiPassword"
+#define MQTT_SERVER "mqtt.local"
